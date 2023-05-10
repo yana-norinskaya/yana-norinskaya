@@ -17,7 +17,7 @@
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-9323C8?style=for-the-badge&logo=TAILWINDCSS&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-9323C8?style=for-the-badge&logo=FIGMA&logoColor=white)
 
-### GitHub Stats:
+### GitHub Status:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=nord&layout=compact)](https://github.com/venmovs/github-readme-stats)
 
