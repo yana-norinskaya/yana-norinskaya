@@ -1,6 +1,14 @@
 ![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/header3.png)
 
-<h2>Language and Tools</h2>
+### Codewars Stats:
+
+<br/>
+
+[![codewars](https://www.codewars.com/users/Yana1906/badges/large)](https://www.codewars.com/users/Yana1906)
+
+### Language and Tools
+
+<br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-9323C8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-9323C8?style=for-the-badge&logo=CSS3&logoColor=white)
