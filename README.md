@@ -18,7 +18,7 @@
 
 ### GitHub Status:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=jolly&layout=compact)(https://github.com/yana-norinskaya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=jolly&layout=compact)](https://github.com/yana-norinskaya/github-readme-stats)
 
 ### Codewars Status:
 
