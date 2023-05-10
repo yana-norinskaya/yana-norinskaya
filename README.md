@@ -1,14 +1,6 @@
 ![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/header3.png)
 
-### Codewars Stats:
-
-<br/>
-
-[![codewars](https://www.codewars.com/users/Yana1906/badges/large)](https://www.codewars.com/users/Yana1906)
-
 ### Language and Tools
-
-<br/>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-9323C8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-9323C8?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -25,4 +17,17 @@
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-9323C8?style=for-the-badge&logo=TAILWINDCSS&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-9323C8?style=for-the-badge&logo=FIGMA&logoColor=white)
 
-Follow me
+### GitHub Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=nord&layout=compact)](https://github.com/venmovs/github-readme-stats)
+
+### Codewars Status:
+
+[![codewars](https://www.codewars.com/users/Yana1906/badges/large)](https://www.codewars.com/users/Yana1906)
+
+### Follow me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-9323C8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YanaNorinskaya)
+[![Instagram](https://img.shields.io/badge/-Instagram-9323C8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/norinskaya?igshid=NTc4MTIwNjQ2YQ==)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9323C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yana-norinskaya/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-9323C8?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/id166152639)
