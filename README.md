@@ -12,14 +12,13 @@
 ![Zustand](https://img.shields.io/badge/-Zustand-9323C8?style=for-the-badge&logo=&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-9323C8?style=for-the-badge&logo=NPM&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-9323C8?style=for-the-badge&logo=SASS&logoColor=white)
-![SASS](https://img.shields.io/badge/-SASS-9323C8?style=for-the-badge&logo=SASS&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-9323C8?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-9323C8?style=for-the-badge&logo=TAILWINDCSS&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-9323C8?style=for-the-badge&logo=FIGMA&logoColor=white)
 
 ### GitHub Status:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=nord&layout=compact)](https://github.com/venmovs/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=nord&layout=compact)
 
 ### Codewars Status:
 
