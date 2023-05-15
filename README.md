@@ -10,7 +10,6 @@
 ![React_Query](https://img.shields.io/badge/-React_Query-9323C8?style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-9323C8?style=for-the-badge&logo=Redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-9323C8?style=for-the-badge&logo=&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-9323C8?style=for-the-badge&logo=&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-9323C8?style=for-the-badge&logo=NPM&logoColor=white)
 ![SASS](https://img.shields.io/badge/-SASS-9323C8?style=for-the-badge&logo=SASS&logoColor=white)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-9323C8?style=for-the-badge&logo=BOOTSTRAP&logoColor=white)
