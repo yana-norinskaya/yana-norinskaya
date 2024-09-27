@@ -2,8 +2,6 @@
 
 ### Language and Tools
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=/yana-norinskaya)](https://git.io/streak-stats)
-
 ![HTML5](https://img.shields.io/badge/-HTML5-9323C8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-9323C8?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9323C8?style=for-the-badge&logo=JavaScript&logoColor=white)
