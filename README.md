@@ -1,4 +1,4 @@
-![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/header5.png)
+
 ![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/profile.png)
 ### Language and Tools
 
