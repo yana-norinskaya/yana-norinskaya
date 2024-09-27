@@ -5,6 +5,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-9323C8?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-9323C8?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9323C8?style=for-the-badge&logo=JavaScript&logoColor=white)
+![VUE](https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=white")
 ![TypeScript](https://img.shields.io/badge/-TypeScript-9323C8?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-9323C8?style=for-the-badge&logo=React&logoColor=white)
 ![React_Query](https://img.shields.io/badge/-React_Query-9323C8?style=for-the-badge&logo=React&logoColor=white)
