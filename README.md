@@ -7,7 +7,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-9F8471?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9F8471?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-9F8471?style=for-the-badge&logo=TypeScript&logoColor=white)
-![vuejs](https://img.shields.io/badge/-vuejs-9F8471?style=for-the-badge&logo=html5&logoColor=white)
+![vuejs](https://img.shields.io/badge/-Vue-9F8471?style=for-the-badge&logo=vuejs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-9F8471?style=for-the-badge&logo=React&logoColor=white)
 ![React_Query](https://img.shields.io/badge/-React_Query-9F8471?style=for-the-badge&logo=React&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-9F8471?style=for-the-badge&logo=Redux&logoColor=white)
