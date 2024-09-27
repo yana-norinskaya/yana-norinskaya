@@ -3,7 +3,7 @@
 ![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/profile2.png)
 ### Language and Tools
 
-![HTML5](https://img.shields.io/badge/-HTML5-9323C8?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-rgba(156, 88, 67, 1)?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-9323C8?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-9323C8?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-9323C8?style=for-the-badge&logo=TypeScript&logoColor=white)
