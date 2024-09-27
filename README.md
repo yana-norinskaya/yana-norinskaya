@@ -17,14 +17,6 @@
 ![TAILWINDCSS](https://img.shields.io/badge/-TAILWINDCSS-9F8471?style=for-the-badge&logo=TAILWINDCSS&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/-FIGMA-9F8471?style=for-the-badge&logo=FIGMA&logoColor=white)
 
-### GitHub Status:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yana-norinskaya&theme=jolly&layout=compact)](https://github.com/yana-norinskaya/github-readme-stats)
-
-### Codewars Status:
-
-[![codewars](https://www.codewars.com/users/Yana1906/badges/large)](https://www.codewars.com/users/Yana1906)
-
 ### Follow me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-9F8471?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YanaNorinskaya)
