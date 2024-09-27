@@ -1,5 +1,6 @@
 
 ![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/profile.png)
+![Header](https://github.com/yana-norinskaya/yana-norinskaya/blob/main/assets/profile2.png)
 ### Language and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-9323C8?style=for-the-badge&logo=html5&logoColor=white)
