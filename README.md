@@ -27,7 +27,7 @@
 
 ### Follow me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-9323C8?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YanaNorinskaya)
-[![Instagram](https://img.shields.io/badge/-Instagram-9323C8?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/norinskaya?igshid=NTc4MTIwNjQ2YQ==)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9323C8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yana-norinskaya/)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-9323C8?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/id166152639)
+[![Telegram](https://img.shields.io/badge/-Telegram-9F8471?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YanaNorinskaya)
+[![Instagram](https://img.shields.io/badge/-Instagram-9F8471?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/norinskaya?igshid=NTc4MTIwNjQ2YQ==)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-9F8471?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yana-norinskaya/)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-9F8471?style=for-the-badge&logo=Vk&logoColor=white)](https://vk.com/id166152639)
