@@ -21,6 +21,10 @@
 
 ### Follow me
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=9F8471&height=2&section=header"/>
+</p>
+
 [![Telegram](https://img.shields.io/badge/-Telegram-9F8471?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YanaNorinskaya)
 [![Instagram](https://img.shields.io/badge/-Instagram-9F8471?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/norinskaya?igshid=NTc4MTIwNjQ2YQ==)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-9F8471?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yana-norinskaya/)
